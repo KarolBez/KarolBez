@@ -1,9 +1,14 @@
-## Hi! I'm Karoline Bezerra
+### Hi! I'm Karoline Bezerra
 
 💻 Developed Full Stack
 
 📲 Studying IOS for app
 
+
+![Karol GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolBez&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Karol-Js" height="30" width="40"       
@@ -48,15 +53,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>   
 
- ##
+ ## Minhas redes sociais
  
 <div> 
 <a href="https://instagram.com/karoline_bezerrac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "karolinebezerrac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
     
-    
+  
           
 
 
